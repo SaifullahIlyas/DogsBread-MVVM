@@ -8,6 +8,8 @@ The idea of the project is to expose Dogs API to make a sample app based on Clea
 * Some other design patterns implemented are singleton internal, facade exposable, and decorator.
 * Some heavily used programming paradimes are OOP(Object Oriented programming , FP(Functional Programming) and POP(Protocols Oriented Programming)
 
+# Tested Environment
+  The implemented solution is tested on iOS 14.5 and the source code was compiled with Xcode 12.5. Maybe some issues will encounter on iOS 15(like navigation bar  styling)
 # Framework Used
 * Cocoa Touch
 * Combine 
