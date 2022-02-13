@@ -19,3 +19,8 @@ no third party framework is used to demonstrate this project
 * To add disk base cache to image downloader . currently it is is supporting only memory cache .
 * To add more exposeable method to imagedownloaded like sdwebimage is doing
 * Project currently support horizontal layering architecture . Can be break into vertical or multi modular architecture. 
+
+# Outputs
+ <img src="https://github.com/SaifullahIlyas/DogsBread-MVVM/blob/master/Images/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202022-02-13%20at%2018.59.28.png" width="250"> <img src="https://github.com/SaifullahIlyas/DogsBread-MVVM/blob/master/Images/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202022-02-13%20at%2018.59.33.png" width="250"> <img src="https://github.com/SaifullahIlyas/DogsBread-MVVM/blob/master/Images/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202022-02-13%20at%2018.59.42.png" width="250"> <img src="https://github.com/SaifullahIlyas/DogsBread-MVVM/blob/master/Images/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202022-02-13%20at%2018.59.39.png" width="250">
+
+
